@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1764125031159",
+    "email": "test@trader.com",
+    "passwordHash": "$2b$10$ZTn4RUKY6rMTq7X7CzdZcOG1HUo7CUF0ZYBOK.2VDrcrUOXNK1dnO",
+    "plan": "starter",
+    "createdAt": "2025-11-26T02:43:51.159Z"
+  },
+  {
+    "id": "1764125482522",
+    "email": "pro@trader.com",
+    "passwordHash": "$2b$10$O42WMjyQoWYzal.JRiFZTugg84IztUfPiV9cCJ.Bd0PnMavbthr/C",
+    "plan": "elite",
+    "createdAt": "2025-11-26T02:51:22.522Z",
+    "activeSessionId": "1ef77348-e259-405d-90f7-2e0566089e69",
+    "lastIp": "173.171.231.114",
+    "tvFeedKey": "360c28734721d03c31d21f8c08181416"
+  },
+  {
+    "id": "1764375370756",
+    "email": "f.vancamper@yahoo.com",
+    "passwordHash": "$2b$10$OpArZit9NXt4DGDa0iNULu9gXlTA02Y5L5gKlcn56nnwPzo8xBsHu",
+    "plan": "starter",
+    "createdAt": "2025-11-29T00:16:10.756Z",
+    "activeSessionId": "5974fbb8-8764-4715-bc7e-4676ff63e8f0",
+    "lastIp": "173.171.231.114",
+    "tvFeedKey": null
+  },
+  {
+    "id": "1764377886745",
+    "email": "f.vancamper@icloud.com",
+    "passwordHash": "$2b$10$bt2obMKdwT3vZJzriJXCYOuqs4AYESrKyN51KhGWAK04MnVZDdL7C",
+    "plan": "free",
+    "createdAt": "2025-11-29T00:58:06.745Z",
+    "activeSessionId": "43942e68-3ce5-4bbd-be23-32460aa10f6a",
+    "lastIp": "173.171.231.114",
+    "tvFeedKey": null
+  }
+]
